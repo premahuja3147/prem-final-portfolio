@@ -1,0 +1,1 @@
+console.log("Typing effect and interactive cards active!");
